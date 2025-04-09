@@ -1,6 +1,9 @@
 # beginnerJsProjects
 seryoso na .
 
+// Task tracker ko 
+https://docs.google.com/spreadsheets/d/1xnfijAchrdAHI69lk0er1XIvRZAn-iK3Mh1_7Pb1d5o/edit?gid=0#gid=0
+
 Next Steps: Video & Course Recommendations
 Once you’re comfortable with the basics, consider diving into projects and tutorials that cover the browser’s DOM, event listeners, and asynchronous operations. Here are some recommended next steps on YouTube:
 
